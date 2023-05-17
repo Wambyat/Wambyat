@@ -5,5 +5,7 @@
 
 ### My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Wambyat&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
+</br>
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wambyat&show_icons=true&count_private=true&hide_border=true&theme=dracula&hide_rank=true&include_all_commits=true&hide=contribs,str)
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wambyat&hide=jupyter%20notebook&theme=dracula&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
